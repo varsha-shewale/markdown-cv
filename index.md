@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Varsha Shewale's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Varsha U. Shewale
+Data Analyst, Business Analyst, Project Manager
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/varsha-shewale">https://github.com/varsha-shewale</a>
 </div>
 
 
