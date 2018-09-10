@@ -3,7 +3,7 @@ layout: cv
 title: Varsha Shewale's CV
 ---
 # VARSHA U. SHEWALE
-Data Analyst, Business Analyst, Project Manager
+Data Analyst, Business Analyst, Project Manager, Certified Scrum Master
 
 <div id="webaddress">
 <a href="https://github.com/varsha-shewale">https://github.com/varsha-shewale</a>
@@ -11,8 +11,8 @@ Data Analyst, Business Analyst, Project Manager
 
 
 ## SKILLS
--	Data Analysis, Business Analysis, Project Management (Rally, MS Project, Visio), Certified Scrum Master
--	Python (pandas, numpy, requests, matplotlib, regex, etc.), SQL, Excel, Access, R 
+-	Project Management, Business Analysis - Rally, MS Project, Visio 
+-	Data Analysis - Python (pandas, numpy, requests, matplotlib, regex, etc.), SQL, Excel, Access, R 
 -	Data Visualization - Tableau, Power BI
 
 
