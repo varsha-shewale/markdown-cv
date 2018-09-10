@@ -2,7 +2,7 @@
 layout: cv
 title: Varsha Shewale's CV
 ---
-# Varsha U. Shewale
+# VARSHA U. SHEWALE
 Data Analyst, Business Analyst, Project Manager
 
 <div id="webaddress">
@@ -10,81 +10,69 @@ Data Analyst, Business Analyst, Project Manager
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## SKILLS
+-	Data Analysis, Business Analysis, Project Management (Rally, MS Project, Visio), Certified Scrum Master
+-	Python (pandas, numpy, requests, matplotlib, regex, etc.), SQL, Excel, Access, R 
+-	Data Visualization - Tableau, Power BI
 
 
-### Research interests
+## EXPERIENCE
+### Project Manager, Business Analyst @ RGen Solutions (client: Microsoft)                                      
+`May 2015 – Feb 2016`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Project: Developing Power BI dashboard, redesigning the Services Marketing website using SharePoint, ETL automation
+-	Created reports by writing queries in T-SQL as per client’s requests
+-	Verified accuracy of data in PowerBI dashboards using SQL 
+-	Increased reliability of reports by UAT testing, creating test data sets
+-	Created and presented sprint demos to technical and non-technical audience
+-	Reduced bottlenecks and increased team satisfaction by building a supportive cross-functional team
+-	Led sprint planning meetings, sprint explanation sessions and sprint retrospectives
 
+### Business Data Analyst @ Cognizant Technology Solutions (client: Dodge Data & Analytics)         
+`Mar 2014 – May 2015`       
 
-## Education
+Project: Developing Tableau dashboard, data integration, creating/enhancing data feeds
+-	Improved knowledge of product usage by creating Tableau dashboards to monitor product usage KPIs
+-	Answered key business questions by generating reports using SQL queries for data retrieval on ad hoc basis
+-	Assisted data mining efforts by conducting exploratory data analysis
+-	Elicited business requirements from multiple non-technical product owners and translated them into user stories
+-	Resolved conflict among product owners using Quality Functional Deployment to improve feature prioritization
+-	Improved reporting efficiency and code quality by prioritizing tech-debt work for each sprint 
+-	Created sprint demo presentations and presented the outcome to both, technical and non-technical audience 
 
-`1654-1660`
-__The King's School, Grantham.__
+### Business Analyst, CSM @ Cognizant Technology Solutions (client: 20th Century Fox)                  
+`Nov 2010 –  Mar 2012`	                                                                       
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Project: Building B2B Electronic-Sell-Through portal & workflow management system for managing digital assets 
+-	Reduced missed requirements by validating data models, ensuring requirements are correctly translated into models
+-	Improved accuracy of data displayed on webpages by verifying data with use of SQL queries
+-	Improved sprint process efficiency by 40% using Scrum and Lean principles 
+-	Increased customer satisfaction by engaging in sprint demos and educating customer of Scrum principles
+-	Reduced bottlenecks and increased team satisfaction by organizing knowledge transfer sessions 
+-	Improved understanding of requirements for developers by introducing Sprint Explanation Sessions, documenting use cases and user stories with acceptance criteria, and creating mockup screens for UI development
 
-- Sizar
+### Associate Software Engineer @ Toshiba Embedded Software                                                           
+`Aug 2007 – Jul 2009`
 
-`1667 - death`
-__Trinity College, Cambridge__
+Project: Toshiba Media Framework (TMF) development in C
 
-- Fellow
+## EDUCATION
+**Data Analyst Nanodegree graduate 2018 @ Udacity** `2017 – 2018`
 
+Projects:
+- Statistical Analysis for ‘Stroop Effect’ Test  – Conducted Hypotheses testing (Statistics, Python)
+- Data Wrangling to prep Twitter Dataset – Merged, cleaned and analyzed data using Twitter API (Python)
+- Exploratory Data Analysis and prediction of Loan Payment Status – Conducted Exploratory Data Analysis and prediction of loan payment using Machine Learning and R
 
+**Database Analyst & Database Report Developer Certification @ Bellevue College, WA, US** `2012 – 2014`
 
-## Awards
+**MBA, Marketing @ S. P. Jain Center of Management, Singapore** `2009 – 2010`
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Bachelor of Engineering, Electrical Engineering @ Government College of Engineering, Pune, India** `2003 – 2009`
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+- Gap after Feb 2016 for continuing education and enhancing data analysis/ data science skills
+- Gap prior to Nov 2010 for MBA; gap after Mar 2012 to pursue fulltime post graduate Database Certification in US -->
 
 
