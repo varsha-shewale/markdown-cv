@@ -10,7 +10,7 @@ Data Analyst, Business Analyst, Project Manager, Certified Scrum Master
 </div>
 
 
-## SKILLS
+## SKILLS/TOOLS
 -	Project Management, Business Analysis - Rally, MS Project, Visio 
 -	Data Analysis - Python (pandas, numpy, requests, matplotlib, regex, etc.), SQL, Excel, Access, R 
 -	Data Visualization - Tableau, Power BI
